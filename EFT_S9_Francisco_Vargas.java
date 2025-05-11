@@ -757,7 +757,7 @@ public class EFT_S9_Francisco_Vargas {
                         System.out.println("Eliminando Asiento");
                         acoAsientos.remove(eliminar);
                         System.out.println("........................");
-                        System.out.println("Asiento eliminado cone exito");
+                        System.out.println("Asiento eliminado con exito");
                        
                         
                     }   
